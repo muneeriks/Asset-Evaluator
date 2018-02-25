@@ -1,2 +1,2 @@
 # Asset-Evaluator
-####  To demonstrate our algorithm decision-making framework & investing principles.
+####  Decision-making algorithm & investing principles.
